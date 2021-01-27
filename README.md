@@ -26,7 +26,7 @@ Se você encontrar algum erro ou tiver algumas sugestão você pode [abrir um is
 <!-- DADOS -->
 ## Dados disponíveis
 
-É possível ver todas as listas que tivemos acesso pelo documento [INFO-DADOS.md](https://github.com/isaacguerreir/vacinadosmanaus/dados/INFO-DADOS.md). Lá é possível metadados e informações discutidas sobre as listagens públicadas até o momento.
+É possível ver todas as listas que tivemos acesso pelo documento [INFO-DADOS.md](https://github.com/isaacguerreir/vacinadosmanaus/blob/main/dados/INFO-DADOS.md). Lá é possível metadados e informações discutidas sobre as listagens públicadas até o momento.
 
 
 <!-- CONTRIBUTING -->
