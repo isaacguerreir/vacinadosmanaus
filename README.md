@@ -21,8 +21,12 @@ O projeto vai tentar automatizar a busca de fraudes na lista atual e futura da P
 <!-- ROADMAP -->
 ## Sugestões, erros e etc
 
-Se você encontrar algum erro ou tiver algumas sugestão você pode [abrir um issue](https://github.com/othneildrew/Best-README-Template/issues) e fazer sua contribuição pública lá.
+Se você encontrar algum erro ou tiver algumas sugestão você pode [abrir um issue](https://github.com/isaacguerreir/vacinadosmanaus/issues) e fazer sua contribuição pública lá.
 
+<!-- DADOS -->
+## Dados disponíveis
+
+É possível ver todas as listas que tivemos acesso pelo documento [INFO-DADOS.md](https://github.com/isaacguerreir/vacinadosmanaus/dados/INFO-DADOS.md). Lá é possível metadados e informações discutidas sobre as listagens públicadas até o momento.
 
 
 <!-- CONTRIBUTING -->
@@ -48,5 +52,5 @@ Distribuído sobre licença MIT License. Veja `LICENSE` para mais informações.
 <!-- CONTACT -->
 ## Contato
 
-Isaac Guerreiro - [@your_twitter](https://twitter.com/IsaacGuerreiro9) - isaacguerreirocom@gmail.com
+Isaac Guerreiro - [@IsaacGuerreiro9](https://twitter.com/IsaacGuerreiro9) - isaacguerreirocom@gmail.com
 
